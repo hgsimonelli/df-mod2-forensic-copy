@@ -42,4 +42,4 @@ WeddingPhoto.jpg
 SHA256: AB9AEA8D901B94C72B626EF8CF610D419DAD518EB2375B2178C0E85ABAEBF31B
 Match: Original and Copy hashes are identical.
 Conclusion
-The forensic copy (evidence-copy) has been successfully created from the original evidence files (evidence). The hash values for each file in both folders match, confirming the integrity of the copied data for further analysis.
+The forensic copy (evidence-copy) has been successfully created from the original evidence files (evidence) to ensure we are not working on the original data. The hash values for each file in both folders match, confirming the integrity of the copied data for further analysis. Meaning the files were copied over correctly as shown with the identical Shah 256 hash comparison.
